@@ -2,6 +2,7 @@ http://www.yx320.com/Uploads/vod/2016-06-08/57577bcc9a06f.jpg&良辰之屋2&yx32
 http://pic4.qiyipic.com/image/20160607/8d/b2/v_110459412_m_601_m1_180_236.jpg&不良女主播&ppy&0a2dnq6Zo6OinaqL4K2eoaeVoeydnqadpKSf
 http://www.yx320.com/Uploads/vod/2016-06-08/57577b41bde46.jpg&良辰之屋1&yx320&http://xiaoya.duapp.com/UrlFlv/URLylV320.php?v=25589216_letv
 w&澳门风云&mag&magnet:?xt=urn:btih:8171b2fc4b61eee077fc143d607a3e0735a3f7cc
-w&澳门风云&lc&6rd9zoycfn:ce1f9cf75c
+http://g.hiphotos.baidu.com/baike/pic/item/b219ebc4b74543a9e454577b1e178a82b901143d.jpg&爱人-韩国&yky&CMzQxMDEzNg==
+http://d.hiphotos.baidu.com/baike/pic/item/9e3df8dcd100baa1764a7bf74710b912c8fc2e13.jpg&色戒&yky&CNDIyNDU3Mg==&&1
 w&爱奇艺&web&http://www.iqiyi.com/v_19rrlg7gr4.html
 w&致青春2&fx&898-1-1
