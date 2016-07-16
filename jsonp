@@ -2,5 +2,8 @@
     "wxurl": "http://mp.weixin.qq.com/s?__biz=MzI1NDMwMTY3Ng==&mid=100000128&idx=2&sn=51f707376cb410264d8d60fd1401ae62&scene=0#wechat_redirect",
     "cctvys": "http://cbox.cntv.cn/json2015/zhiboshy/pdfl/yangshi/index.json",
     "cctvws": "http://cbox.cntv.cn/json2015/zhiboshy/pdfl/weishi/index.json",
-    "cctvdf": "http://cbox.cntv.cn/json2015/zhiboshy/pdfl/difang/index.json"
+    "cctvdf": "http://cbox.cntv.cn/json2015/zhiboshy/pdfl/difang/index.json",
+    "zbvdn_url": "http://vdn.live.cntv.cn/api2/live.do",
+    "autoimg_url": "http://t.live.cntv.cn/imagehd/",
+    "living_url": "http://api.cntv.cn/epg/nowepg?serviceId=cbox"
 }
