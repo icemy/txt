@@ -4,5 +4,6 @@ http://www.yx320.com/Uploads/vod/2016-06-08/57577b41bde46.jpg&良辰之屋1&yx32
 w&澳门风云&mag&magnet:?xt=urn:btih:8171b2fc4b61eee077fc143d607a3e0735a3f7cc
 http://g.hiphotos.baidu.com/baike/pic/item/b219ebc4b74543a9e454577b1e178a82b901143d.jpg&爱人-韩国&yky&CMzQxMDEzNg==
 http://d.hiphotos.baidu.com/baike/pic/item/9e3df8dcd100baa1764a7bf74710b912c8fc2e13.jpg&色戒&yky&CNDIyNDU3Mg==&&1
+https://img3.doubanio.com/view/photo/photo/public/p2365879365.jpg&爱上夜蒲团&yky&CNTA0MTQ4OA==&&1
 w&爱奇艺&web&http://www.iqiyi.com/v_19rrlg7gr4.html
 w&致青春2&fx&898-1-1
