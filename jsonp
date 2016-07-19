@@ -7,6 +7,7 @@
     "autoimg_url": "http://t.live.cntv.cn/imagehd/",
     "yun_s": "http://ixziyuan.cc/",
     "living_url": "http://api.cntv.cn/epg/nowepg?serviceId=cbox",
+    "ax": "http://ixziyuan.cc",
     "ax1": "http://ixziyuan.cc/ixziyuan/?1.html",
     "ax2": "http://ixziyuan.cc/ixziyuan/?42.html"
 }
