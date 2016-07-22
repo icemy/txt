@@ -1,5 +1,6 @@
 {
     "91": "http://m.91kds.com",
+    "91refer": "Mozilla/5.0 (Linux; U; Android 5.0; zh-CN; SM-RE Build/LRX21V) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.10.3.810 U3/0.8.0 Mobile Safari/534.30",
     "wxurl": "http://mp.weixin.qq.com/s?__biz=MzI1NDMwMTY3Ng==&mid=100000128&idx=2&sn=51f707376cb410264d8d60fd1401ae62&scene=0#wechat_redirect",
     "cctvys": "http://cbox.cntv.cn/json2015/zhiboshy/pdfl/yangshi/index.json",
     "cctvws": "http://cbox.cntv.cn/json2015/zhiboshy/pdfl/weishi/index.json",
